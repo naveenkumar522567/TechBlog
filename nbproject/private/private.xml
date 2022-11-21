@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="6">
+        <file>
+            <url>web/Profile.jsp</url>
+            <bookmark id="6">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/java/com/tech/blog/servlets/LoginServlet.java</url>
+            <bookmark id="5">
+                <name/>
+                <line>33</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/JDBC%20tuts/techBlog/web/show_blog_page.jsp</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/web/User_profile.jsp</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/web/load_post.jsp</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/web/Profile.jsp</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/web/JavaScript/profile.js</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/src/java/com/tech/blog/dao/likeDao.java</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/src/java/com/tech/blog/servlets/likeServlet.java</file>
+            <file>file:/E:/JDBC%20tuts/techBlog/web/CSS/User_profile.css</file>
+        </group>
+    </open-files>
+</project-private>
